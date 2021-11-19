@@ -172,11 +172,11 @@ High School Duineveld, `Upington, Northern Cape, ZA, 2002-2006`
 
 Participated in:
 
-        * WSKF (World Shotokan Karate Do Federation),
-        * Computer Science Olympiad,
-        * Physical Science Olympiad,
-        * Mathematics Olympiad,
-        * 2005 SAASTA Science Camp
+   * WSKF (World Shotokan Karate Do Federation),
+   * Computer Science Olympiad,
+   * Physical Science Olympiad,
+   * Mathematics Olympiad,
+   * 2005 SAASTA Science Camp
 
 ## References
 ---
