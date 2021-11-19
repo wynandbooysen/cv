@@ -1,10 +1,6 @@
 # Wynand Booysen | DevOps Engineer
 
-## 🔗 Links
-
-- [Email](<booysenw@gmail.com>)
-- [GitHub](<https://github.com/wynandbooysen>)
-- [LinkedIn](<https://za.linkedin.com/in/wynandbooysen>)
+🔗 [Email](<booysenw@gmail.com>) |  [GitHub](<https://github.com/wynandbooysen>) | [LinkedIn](<https://za.linkedin.com/in/wynandbooysen>)
 
 ## Personal Statement
 ---
@@ -23,7 +19,7 @@ Wynand has over 12 years of IT experience with a proven track record in architec
 ## 💼 Employment
 ---
 
-**DevOps Engineer @ Takealot.com**
+**DevOps Engineer @ [Takealot.com](<https://www.takealot.com/>)**
 
 `September 2021 - Current`
 
@@ -35,7 +31,7 @@ Wynand currently works in the Platform Team focusing on Monitoring & Alerting an
 * Update and add actionable alerts to monitoring platforms consisting of Graphite/Prometheus/ElasticSearch/Sensu-go/CustomScripts
 * Scripting exports of environments and application configs to analyze config drift and realign using configuration management as needed
 
-**Systems Engineer (Team Enterprise Architecture) @ SuperGroup**
+**Systems Engineer (Team Enterprise Architecture) @ [SuperGroup](<https://www.supergroup.co.za/>)**
 
 `October 2018 - August 2021`
 
@@ -49,7 +45,7 @@ Wynand worked in the Enterprise Architecture Team focusing on Data integration, 
 *Wrote BASH scripts to automatically check, recover/restart legacy applications while sending status updates and failures via WhatsApp. 
 * Standardizing Linux server’s configuration using Puppet and Ansible.
 
-**Systems Engineer (Team Engineering) @ SuperGroup**
+**Systems Engineer (Team Engineering) @ [SuperGroup](<https://www.supergroup.co.za/>)**
 
 `October 2015 - September 2018`
 
