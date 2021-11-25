@@ -4,7 +4,6 @@
 
 ## Personal Statement
 ---
-
 Wynand has over 12 years of IT experience with a proven track record in architecting, automating, monitoring/alerting and optimizing IT systems as well as doing data integration between various platforms.  Always up for a challenge with a hunger to learn, being passionate about using his technical know-how to help innovate, improve and benefit those around him.
 
 ## 🛠 Skills
@@ -18,7 +17,6 @@ Wynand has over 12 years of IT experience with a proven track record in architec
 
 ## 💼 Employment
 ---
-
 **DevOps Engineer @ [Takealot.com](<https://www.takealot.com/>)**
 
 `September 2021 - Current`
@@ -125,55 +123,3 @@ As the Only permanent IT staff member, Wynand was employed to do basic computer 
 * Successfully recovered the primary SQL server after RAID hardware failure from remote offsite backups.
 * Implemented remote site backups across the Motorola PTP wireless links for all sites
 * Rolled out McAfee EPO across the entire organization.
-
-## 🎓 Education
----
-LinuxAcademy, `Online`
-* Linux System Administrator/Engineer - Entry Level - Received: 08/16/2018
-* DevOps Engineer - Entry Level - Received: 08/16/2018
-
-Udemy Academy, `Online`
-* Docker for DevOps
-* Monitoring and Alerting using Prometheus
-* Introduction to Apache Nifi
-
-NetCampus, `Johannesburg`
-* Business Analysis
-
-LoopHold Security, `Johannesburg`
-* CCSA, DELL Network Security Basic Administration (NBSA)
-
-Bytes People Solutions, `Johannesburg`
-* SharePoint 2010
-
-iLab, `Johannesburg`
-* Practical Software Testing | 88%
-
-CTU Training Solutions, `Johannesburg`
-* MCTS (Server 2008)
-
-CTU Training Solutions, `Bloemfontein`
-* Network Administration Course
- National Certificate for IT Systems Support NQF Level 5  | MCSE 2003 | MCDBA 2000
-
-High School Duineveld, `Upington, Northern Cape, ZA, 2002-2006`
-* Senior Certificate, PASSED WITH MERIT
-
-   * Afrikaans HG
-   * English HG
-   * Mathematics HG
-   * Accounting HG
-   * Computer Studies HG
-   * Physical Science SG
-
-Participated in:
-
-   * WSKF (World Shotokan Karate Do Federation),
-   * Computer Science Olympiad,
-   * Physical Science Olympiad,
-   * Mathematics Olympiad,
-   * 2005 SAASTA Science Camp
-
-## References
----
-References are available on request. 
